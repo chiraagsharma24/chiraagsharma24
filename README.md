@@ -1,4 +1,4 @@
-# 🌟 Chirag Sharma | Sophomore at IIIT Vadodara 🌟  
+# 🌟 Chirag Sharma | Sophomore at IIIT Vadodara 🌟 
 ![IIIT Vadodara](https://img.shields.io/badge/IIIT-Vadodara-blue?style=flat-square)  
 
 ---
