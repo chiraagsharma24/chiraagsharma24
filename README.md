@@ -5,10 +5,9 @@
 
 ## 🚀 About Me  
 - 💻 **Aspiring Software Engineer**  
-- 🧩 Problem-solving isn't just a skill, it's my passion.  
 - 🌱 Constantly learning and upgrading my tech skills.  
-- 🌟 Collaboration and teamwork drive me to create innovative solutions.
-- 🌐 I enjoy building impactful projects that blend      creativity with technology. 
+- 🌐 I enjoy building impactful projects that blend creativity with technology.
+- 🌟 Collaboration and teamwork drive me to create innovative solutions. 
 - 🎯 My goal is to contribute meaningfully to the tech community and grow as a software engineer.
 
 
