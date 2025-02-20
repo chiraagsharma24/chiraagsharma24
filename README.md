@@ -3,7 +3,7 @@
 
 ---
 
-## 🚀 About Me  
+## 🚀 About Me     
 - 💻 **Aspiring Software Engineer**  
 - 🌱 Constantly learning and upgrading my tech skills.  
 - 🌐 I enjoy building impactful projects that blend creativity with technology.
