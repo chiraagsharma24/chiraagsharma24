@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me     
-- 💻 **Aspiring Software Engineer**  
+- 💻 **Aspiring Software Engineer**               
 - 🌱 Constantly learning and upgrading my tech skills.  
 - 🌐 I enjoy building impactful projects that blend creativity with technology.
 - 🌟 Collaboration and teamwork drive me to create innovative solutions. 
