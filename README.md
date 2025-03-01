@@ -8,7 +8,7 @@
 - 🌱 Constantly learning and upgrading my tech skills.                       
 - 🌐 I enjoy building impactful projects that blend creativity with technology.            
 - 🌟 Collaboration and teamwork drive me to create innovative solutions. 
-- 🎯 My goal is to contribute meaningfully to the tech community and grow as a software engineer.
+- 🎯 My goal is to contribute meaningfully to the tech community and grow as a software engineer.                 
 
 ---
 
