@@ -29,10 +29,10 @@ I am a second-year Computer Science student passionate about building impactful 
 
 ## 📊 GitHub Stats  
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chiraagsharma24&show_icons=true&theme=radical) |  
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chiraagsharma24&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chiraagsharma24&layout=compact&theme=radical)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chiraagsharma24&theme=radical) 
 |--------------------------------|  
 
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chiraagsharma24&layout=compact&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chiraagsharma24&theme=radical) 
+
 
 ---
 
